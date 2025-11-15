@@ -1,6 +1,6 @@
 # Portfólio - Ana Beatriz Coelho
 
-<img align="right" src="./assets/abeatriz.jpg" alt="" width="280"/>
+<img align="right" src="./assets/abeatriz.jpg" alt="" width="250"/>
 
 Estudante do 3º Semestre de **Desenvolvimento de Software Multiplataforma** na **Fatec São José dos Campos - Prof. Jessen Vidal** e **Estagiária de Desenvolvimento de Software na Nuel Tech**. <br>
 Desde criança, sempre tive interesse pela área da tecnologia - especialmente por jogos - e esse interesse só se intensificou quando conheci a Fatec e sua proposta de ensino, vi nela uma grande oportunidade 
