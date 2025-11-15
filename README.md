@@ -43,8 +43,6 @@ correção de bugs existentes.
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="4" />
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo" />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo" />
