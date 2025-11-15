@@ -8,7 +8,7 @@ para ingressar no setor, desenvolver minhas habilidades técnicas e crescer prof
 
 Desde que ingressei na Fatec, em agosto de 2024, aprendi muito por meio das APIs desenvolvidas em equipe, aprimorando minha capacidade de colaboração, resolução de problemas, pensamento crítico 
 e criatividade. Durante esses anos, tive a oportunidade de aprender e aplicar diversas tecnologias, como Python, JavaScript, TypeScript, Node.js, Spring Boot, React, MySQL, MongoDB, Jira e outros, 
-tanto em projetos da faculdade quanto no estágio e em iniciativas pessoais. 
+tanto em projetos da faculdade quanto no estágio e em projetos pessoais. 
 Além das competências técnicas, desenvolvi habilidades interpessoais e experiência com metodologias ágeis, atuando como integrante do Dev Team e também como Product Owner.
 
 Em setembro de 2025, ingressei como estagiária na **Nuel Tech Soluções Inteligentes**, empresa especializada em desenvolvimento de sistemas e soluções personalizadas.
