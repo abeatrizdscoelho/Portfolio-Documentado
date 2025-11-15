@@ -6,7 +6,7 @@ Estudante do 3º Semestre de **Desenvolvimento de Software Multiplataforma** na 
 Desde criança, sempre tive interesse pela área da tecnologia - especialmente por jogos - e esse interesse só se intensificou quando conheci a Fatec e sua proposta de ensino, vi nela uma grande oportunidade 
 para ingressar no setor, desenvolver minhas habilidades técnicas e crescer profissionalmente. <br>
 
-Desde que ingressei na Fatec, em agosto de 2024, tenho aprendido muito por meio das APIs desenvolvidas em equipe, aprimorando minha capacidade de colaboração, resolução de problemas, pensamento crítico 
+Desde que ingressei na Fatec, em agosto de 2024, aprendi muito por meio das APIs desenvolvidas em equipe, aprimorando minha capacidade de colaboração, resolução de problemas, pensamento crítico 
 e criatividade. Durante esses anos, tive a oportunidade de aprender e aplicar diversas tecnologias, como Python, JavaScript, TypeScript, Node.js, Spring Boot, React, MySQL, MongoDB, Jira e outros, 
 tanto em projetos da faculdade quanto no estágio e em iniciativas pessoais. 
 Além das competências técnicas, desenvolvi habilidades interpessoais e experiência com metodologias ágeis, atuando como integrante do Dev Team e também como Product Owner.
