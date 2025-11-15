@@ -1,8 +1,8 @@
 # Portfólio - Ana Beatriz Coelho
 
-<img align="right" src="" alt="" width="200"/>
+<img align="right" src="./assets/anabeatriz.jpg" alt="" width="300"/>
 
-Estudante do 3º Semestre de Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos - Prof. Jessen Vidal e estagiária de Desenvolvimento de Software na Nuel Tech. <br>
+Estudante do 3º Semestre de **Desenvolvimento de Software Multiplataforma** na **Fatec São José dos Campos - Prof. Jessen Vidal** e **Estagiária de Desenvolvimento de Software na Nuel Tech**. <br>
 Desde criança, sempre tive interesse pela área da tecnologia - especialmente por jogos - e esse interesse só se intensificou quando conheci a Fatec e sua proposta de ensino, vi nela uma grande oportunidade 
 para ingressar no setor, desenvolver minhas habilidades técnicas e crescer profissionalmente. <br>
 
@@ -11,7 +11,7 @@ e criatividade. Durante esses anos, tive a oportunidade de aprender e aplicar di
 tanto em projetos da faculdade quanto no estágio e em iniciativas pessoais. 
 Além das competências técnicas, desenvolvi habilidades interpessoais e experiência com metodologias ágeis, atuando como integrante do Dev Team e também como Product Owner.
 
-Em setembro de 2025, ingressei como estagiária na <a href="https://nueltech.com.br">Nuel Tech</a>, empresa especializada em desenvolvimento de sistemas e soluções personalizadas.
+Em setembro de 2025, ingressei como estagiária na **Nuel Tech Soluções Inteligentes**, empresa especializada em desenvolvimento de sistemas e soluções personalizadas.
 Atuo no desenvolvimento e gestão relacionados ao sistema ERP de gestão, incluindo backend e frontend, contribuindo na implementação de novas funcionalidades, melhorias no backend e frontend e 
 correção de bugs existentes.
 
@@ -55,7 +55,7 @@ O objetivo é oferecer aos eleitores dados claros e acessíveis que ajudem a tom
 
 - Criação dos **wireframes no Figma**, apresentando o protótipo ao cliente.  
 - Desenvolvimento das telas de **Vereadores Gerais** e **Perfil Individual** de cada vereador, utilizando **HTML** e **CSS**.  
-- **Modelagem (brModelo) e criação do banco de dados MySQL** para armazenar comentários e feedbacks de eleitores.  
+- **Modelagem e criação do banco de dados MySQL** para armazenar comentários e feedbacks de eleitores.  
 - Implementação das **funcionalidades de Comissões e Votações** com **Python (Flask)**.
 
 
@@ -76,7 +76,7 @@ O objetivo é oferecer aos eleitores dados claros e acessíveis que ajudem a tom
 
 #### Soft Skills Desenvolvidas
 
-> Compromisso: Foi dedicado um esforço significativos em estudos autônomos para dominar as linguagens de programação e frameworks relevantes para o projeto. Isso incluiu a realização de cursos online, leitura de documentação técnica, realização de tutoriais práticos e experimentação ativa com as ferramentas necessárias para o desenvolvimento do frontend e backend.
+> Compromisso: Foi dedicado um esforço significativo em estudos autônomos para dominar as linguagens de programação e frameworks relevantes para o projeto. Isso incluiu a realização de cursos online, leitura de documentação técnica, realização de tutoriais práticos e experimentação ativa com as ferramentas necessárias para o desenvolvimento do frontend e backend.
 
 > Comunicação: A habilidade de comunicação foi essencial para garantir uma colaboração eficaz com a equipe, permitindo o compartilhamento claro de informações, ideias e feedback. Utilizei canais de comunicação adequados, como reuniões e mensagens para garantir que todos estivessem alinhados com os objetivos do projeto. 
 
@@ -202,19 +202,7 @@ Essas atividades me permitiram aprofundar meus conhecimentos em Java (Spring Boo
 
 #### Tecnologias Utilizadas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white) 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) 
-![Swagger](https://img.shields.io/badge/Swagger-696969?style=for-the-badge&logo=swagger&logoColor=figma) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) ![Swagger](https://img.shields.io/badge/Swagger-696969?style=for-the-badge&logo=swagger&logoColor=figma) 
 
 
 #### Hard Skills Desenvolvidas
@@ -226,7 +214,7 @@ Essas atividades me permitiram aprofundar meus conhecimentos em Java (Spring Boo
 
 > Adaptabilidade: O semestre contou com mudanças de requisitos, redefinição de prioridades e ajustes no escopo. Foi necessário me adaptar rapidamente a essas alterações, ajustando meu fluxo de trabalho, reorganizando tarefas e aprendendo novas ferramentas quando necessário para garantir a continuidade e eficiência do projeto.
 
-> Resolução de Problemas: Diante de desafios no sistema de login — como falhas de autenticação e riscos de segurança — coloquei em prática minha habilidade de analisar problemas de forma crítica e implementar soluções eficazes. Atuei de maneira proativa para fortalecer a proteção dos dados, revisando fluxos, aprimorando validações e garantindo um processo de autenticação mais seguro e confiável.
+> Resolução de Problemas: Diante de desafios no sistema de login — como falhas de autenticação e riscos de segurança — coloquei em prática minha habilidade de analisar problemas de forma crítica e implementar soluções eficazes. Atuei de maneira proativa para fortalecer a proteção dos dados, revisando fluxos, aprimorando validações e garantindo um processo de autenticação mais seguro.
 
 > Aprendizagem Contínua: Diante das necessidades do projeto, foi essencial aprender rapidamente novas tecnologias e ferramentas, como um banco de dados diferente e o framework Spring Boot. Essa capacidade de se adaptar e adquirir novos conhecimentos permitiu superar desafios técnicos, evoluir junto às demandas do sistema e contribuir com soluções mais eficientes ao longo do desenvolvimento.
 
