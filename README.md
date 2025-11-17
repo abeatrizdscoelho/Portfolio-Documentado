@@ -6,7 +6,7 @@ Estudante do 3º Semestre de **Desenvolvimento de Software Multiplataforma** na 
 Desde criança, sempre tive interesse pela área da tecnologia - especialmente por jogos - e esse interesse só se intensificou quando conheci a Fatec e sua proposta de ensino, vi nela uma grande oportunidade 
 para ingressar no setor, desenvolver minhas habilidades técnicas e crescer profissionalmente. <br>
 
-Desde que ingressei na Fatec, tenho aprendido muito por meio das APIs desenvolvidas em equipe, aprimorando minha capacidade de colaboração, resolução de problemas, pensamento crítico 
+Desde que ingressei na Fatec, tenho aprendido muito por meio das APIs (Aprendizagem por Projetos Integrados) desenvolvidas em equipe, aprimorando minha capacidade de colaboração, resolução de problemas, pensamento crítico 
 e criatividade. Durante esses anos, tive a oportunidade de aprender e aplicar diversas tecnologias, como Python, JavaScript, TypeScript, Node.js, Spring Boot, React, MySQL, MongoDB, Jira e outros, 
 tanto em projetos da faculdade quanto no estágio e em projetos pessoais. 
 Além das competências técnicas, desenvolvi habilidades interpessoais e experiência com metodologias ágeis, atuando como integrante do Dev Team e também como Product Owner.
@@ -77,7 +77,7 @@ correção de bugs existentes.
 
 > **Status do Projeto: Concluído**
 
-O projeto foi proposto por um cliente interno, Professor **Fernando Masanori**. <br>
+O projeto foi proposto pelo Professor **Fernando Masanori**. <br>
 A proposta era desenvolver uma plataforma web que disponibiliza informações sobre o desempenho dos vereadores da cidade de São José dos Campos durante o atual mandato. 
 O objetivo é oferecer aos eleitores dados claros e acessíveis que ajudem a tomar decisões informadas nas eleições municipais. A plataforma permitirá que os cidadãos visualizem a atuação dos vereadores.
 
@@ -133,7 +133,7 @@ O objetivo é oferecer aos eleitores dados claros e acessíveis que ajudem a tom
 
 > **Status do Projeto: Concluído**
 
-O projeto foi proposto por um cliente externo, Empresa **Helpnei**. <br>
+O projeto foi proposto por um Parceiro Acadêmico, Empresa **Helpnei**. <br>
 O **Helpnei** é uma plataforma voltada para profissionais de venda direta, oferecendo ferramentas de gestão de links de afiliados, facilitando a promoção e comercialização de produtos de grandes marcas. Além disso, permite a criação de lojas próprias, o trabalho com afiliação e a venda de produtos dentro de comunidades, promovendo oportunidades de geração de renda extra.<br>
 A dificuldade do Helpnei era de oferecer às empresas parceiras acesso a indicadores que mostrem, de forma transparente, seus resultados e impacto na plataforma.
 A partir disso, a solução desenvolvida consiste em um Dashboard de Indicadores de Crescimento para as empresas cadastradas e um sistema de captação de usuários externos relacionados. <br>
@@ -208,7 +208,7 @@ Como **Product Owner** do projeto, fui responsável por alinhar as expectativas 
 
 > **Status do Projeto: Concluído**
 
-O projeto foi proposto por um cliente externo, Empresa **GSW**. <br>
+O projeto foi proposto por um Parceiro Acadêmico, Empresa **GSW**. <br>
 A **GSW** enfrenta dificuldades no acompanhamento de tarefas, causando falhas de comunicação e atrasos nas entregas. <br>
 O gerenciador de tarefas foi desenvolvido para resolver esses problemas, oferecendo uma plataforma unificada que permite saber o que precisa ser feito, por quem e quando.
 O sistema possui as seguintes funcionalidades principais:
